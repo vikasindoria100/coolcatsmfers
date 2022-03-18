@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc3d199219221dc8d6daada4a318e7241052cec5a3e083fed2f935aab515b1e29",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Cool Cats Mfers",
+  "SYMBOL": "coolcatsmfers",
+  "MAX_SUPPLY": 1006,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cool-cats-mfers",
+  "SHOW_BACKGROUND": true
+}
